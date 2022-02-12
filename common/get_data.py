@@ -3,6 +3,8 @@ from common.get_excel import ExcelData
 from common.get_json import JsonData
 from common.setting import HEADER
 from common.get_config import Config
+
+
 class GetData:
 
     def __init__(self, sheet_name=None):

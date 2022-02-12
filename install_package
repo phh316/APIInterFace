@@ -1,0 +1,5 @@
+openpyxl
+xlrd
+jsonpath
+requests
+jsonpath_ng
