@@ -10,7 +10,7 @@ class ApiRunner:
     def logs(func):
         @wraps(func)
         def wraps_func(self, **kwargs):
-            Log.get_log().info("发送请求: \n [url] :{} \n [method] :{} \n [case] :{} \n [header] {}\n"
+            Log.get_log().info("发送请求: \n [url] :{} \n [method] :{} \n [data] :{} \n [header] {}\n"
                                .format(kwargs.get('url'),
                                        kwargs.get('method'),
                                        kwargs.get('data'),
