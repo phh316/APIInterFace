@@ -243,7 +243,32 @@
 
 # for i in range(1, 6 + 1):
 #     print(i)
+from common.get_config import Config
+from common.get_data import GetData
+from common.log import Log
+from common.get_excel import ExcelData
+from functools import wraps
 
+
+class A:
+    def _init(func):
+        @wraps(func)
+        def inner_func(self):
+            self.data = GetData(Config().get_value('sheet', 'isRun'))
+            self.count = self.data.get_lines()
+            self.log = Log.get_log()
+            self.excel = ExcelData()
+            func(self)
+        return inner_func
+
+    @_init
+    def test_module1(self):
+        ''''''
+        print(self.count)
+
+
+A().test_module1()
+# print(a.count)
 
 
 

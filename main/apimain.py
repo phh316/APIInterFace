@@ -5,19 +5,20 @@ from functools import wraps
 from common.log import Log
 
 
-class ApiRunner:
+def logs(func):
+    @wraps(func)
+    def wraps_func(self, **kwargs):
+        Log.get_log().info("发送请求: \n [url] :{} \n [method] :{} \n [data] :{} \n [header] {}\n"
+                           .format(kwargs.get('url'),
+                                   kwargs.get('method'),
+                                   kwargs.get('data'),
+                                   kwargs.get('headers')))
+        return func(**kwargs)
 
-    def logs(func):
-        @wraps(func)
-        def wraps_func(self, **kwargs):
-            Log.get_log().info("发送请求: \n [url] :{} \n [method] :{} \n [data] :{} \n [header] {}\n"
-                               .format(kwargs.get('url'),
-                                       kwargs.get('method'),
-                                       kwargs.get('data'),
-                                       kwargs.get('headers')))
-            return func(**kwargs)
-        return wraps_func
+    return wraps_func
 
+
+class ApiRunnerMethod:
     @logs
     def http_post(**kwargs):
         '''
@@ -29,9 +30,9 @@ class ApiRunner:
         '''
         res = None
         if kwargs.get('headers') is not None:
-            res = requests.post(kwargs.get('url'),kwargs.get('case'),kwargs.get('headers'))
+            res = requests.post(kwargs.get('url'), kwargs.get('case'), kwargs.get('headers'))
         else:
-            res = requests.post(kwargs.get('url'),kwargs.get('case'))
+            res = requests.post(kwargs.get('url'), kwargs.get('case'))
         return res.json()
 
     @logs
@@ -45,10 +46,13 @@ class ApiRunner:
         '''
         res = None
         if kwargs.get('headers') is not None:
-            res = requests.get(kwargs.get('url'),kwargs.get('case'),kwargs.get('headers'))
+            res = requests.get(kwargs.get('url'), kwargs.get('case'), kwargs.get('headers'))
         else:
-            res = requests.get(kwargs.get('url'),kwargs.get('case'))
+            res = requests.get(kwargs.get('url'), kwargs.get('case'))
         return res.json()
+
+
+class ApiRunner():
 
     def run_main(self, url, method, data, header):
         """
@@ -61,7 +65,7 @@ class ApiRunner:
         """
         res = None
         if method == "post":
-            res = self.http_post(url=url, method=method, data=data, headers=header)
+            res = ApiRunnerMethod().http_post(url=url, method=method, data=data, headers=header)
         else:
-            res = self.http_get(url=url, method=method, data=data)
+            res = ApiRunnerMethod().http_get(url=url, method=method, data=data)
         return json.dumps(res, ensure_ascii=False, sort_keys=True, indent=2)
