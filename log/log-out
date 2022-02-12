@@ -1018,3 +1018,1189 @@
 2022-02-12 18:16:55,770 - APIInterFace-INFO: 断言匹配正确，案例执行pass
 2022-02-12 18:16:55,770 - APIInterFace-INFO: 断言匹配正确，案例执行pass
 2022-02-12 18:16:55,770 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:35,986 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test001 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:35,986 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test001 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:35,986 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test001 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:35,986 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test001 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,205 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,205 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,205 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,205 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,209 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:27:36,209 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:27:36,209 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:27:36,209 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:27:36,209 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test003 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test003 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test003 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test003 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test003 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,395 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :test003 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,567 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,567 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,567 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,567 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,567 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,567 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,570 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:27:36,570 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:27:36,570 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:27:36,570 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:27:36,570 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:27:36,570 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:27:36,570 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:27:36,746 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,746 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,746 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,746 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,746 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,746 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,746 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:36,746 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,746 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,746 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,746 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,746 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,746 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,746 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,758 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,910 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:36,922 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:27:37,090 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:11,777 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,777 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,777 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,777 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,781 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test001 
+ [header] None
+
+2022-02-12 18:29:11,781 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test001 
+ [header] None
+
+2022-02-12 18:29:11,781 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test001 
+ [header] None
+
+2022-02-12 18:29:11,781 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test001 
+ [header] None
+
+2022-02-12 18:29:11,781 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test001 
+ [header] None
+
+2022-02-12 18:29:11,952 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:11,952 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:11,952 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:11,952 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:11,952 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:11,972 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,972 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,972 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,972 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,972 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,972 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:11,972 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:29:11,972 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:29:11,972 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:29:11,972 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:29:11,972 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:29:11,972 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:29:11,972 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test002 
+ [header] None
+
+2022-02-12 18:29:12,148 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,148 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,148 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,148 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,148 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,148 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,148 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,152 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,152 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,152 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,152 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,152 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,152 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,152 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,152 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,152 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :test003 
+ [header] None
+
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,311 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,327 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,330 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :None 
+ [data] :test004 
+ [header] None
+
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,508 - APIInterFace-ERROR: 测试数据未定义
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,512 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :test005 [method] None [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,520 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,524 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,684 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,696 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :None 
+ [data] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': 'qqqq'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} 
+ [header] None
+
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:12,872 - APIInterFace-ERROR: 断言匹配错误，案例执行failed
+2022-02-12 18:29:40,417 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test001', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,417 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test001', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,417 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test001', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,417 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test001', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,628 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,628 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,628 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,628 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,632 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': 'test002', 'username': '张三'} 
+ [header] None
+
+2022-02-12 18:29:40,632 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': 'test002', 'username': '张三'} 
+ [header] None
+
+2022-02-12 18:29:40,632 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': 'test002', 'username': '张三'} 
+ [header] None
+
+2022-02-12 18:29:40,632 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': 'test002', 'username': '张三'} 
+ [header] None
+
+2022-02-12 18:29:40,632 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': 'test002', 'username': '张三'} 
+ [header] None
+
+2022-02-12 18:29:40,815 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,815 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,815 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,815 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,815 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,819 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test003', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,819 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test003', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,819 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test003', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,819 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test003', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,819 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test003', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,819 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :{'password': 'test003', 'username': '张三'} 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:40,991 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,991 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,991 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,991 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,991 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,991 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:40,995 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:40,995 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:40,995 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:40,995 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:40,995 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:40,995 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:40,995 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,156 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,156 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,156 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,156 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,156 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,156 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,156 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,160 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': '888888888888888900000'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,160 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': '888888888888888900000'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,160 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': '888888888888888900000'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,160 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': '888888888888888900000'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,160 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': '888888888888888900000'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,160 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': '888888888888888900000'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,160 - APIInterFace-INFO: [name] : 测试案例005 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user [is_run] :True [case] :{'data': {'transcode': '200', 'person': [{'age': '23ccc', 'id': '23', 'name': '888888888888888900000'}, {'age': '25www', 'dependid': 888888888888888900000, 'id': '22'}]}} [method] post [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: [name] : 测试案例004 [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test [case] :{'password': '123', 'username': '张三', 'user': 'test004'} [method] get [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,168 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/test 
+ [method] :get 
+ [data] :{'password': '123', 'username': '张三', 'user': 'test004'} 
+ [header] None
+
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,348 - APIInterFace-INFO: 匹配到的[value] :qqqq
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,355 - APIInterFace-INFO: 发送请求: 
+ [url] :https://www.fastmock.site/mock/db8122608751bfc0a73df8b9e3da74ad/test/api/user 
+ [method] :post 
+ [data] :None 
+ [header] {'key': 'Content-Type', 'value': 'application/json', 'description': ''}
+
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass
+2022-02-12 18:29:41,536 - APIInterFace-INFO: 断言匹配正确，案例执行pass

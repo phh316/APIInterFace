@@ -33,7 +33,7 @@ class RunTest(object):
             if is_run:
                 name = self.data.get_name(i)
                 url = self.data.get_url(i)
-                data = self.data.get_data(i)
+                data = JsonData().get_key(self.data.get_data(i))
                 method = self.data.get_method(i)
                 header = self.data.get_header(i)
                 except_result = self.data.get_except_result(i)
