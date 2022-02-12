@@ -3,6 +3,11 @@
 # @Date : 2022/2/12
 # @Author : Ph
 # @File : run_main.py
+import os
+import sys
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
 
 import unittest
 from common.setting import MOUDLE_DIR_PATH, SUIT_PROJRCT
