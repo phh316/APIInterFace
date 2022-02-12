@@ -95,7 +95,7 @@
         # print()
 
     # def test_002(self):
-    #     file_name = os.path.join(DATA_DIR, 'CaseEntity.xls')
+    #     file_name = os.path.join(DATA_DIR, 'CaseEntity.xlsx')
     #     try:
     #         case = openpyxl.open(file_name)
     #         sheet_active = case[Config().get_value('sheet', 'isrun')]

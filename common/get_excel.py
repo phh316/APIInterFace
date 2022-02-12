@@ -14,7 +14,7 @@ class ExcelData:
         加载excel文件
         :return:
         """
-        self.file_name = os.path.join(DATA_DIR_PATH, "CaseEntity.xls")
+        self.file_name = os.path.join(DATA_DIR_PATH, "CaseEntity.xlsx")
         self.is_default = Config().get_value('sheet', 'default')
         self.is_run = Config().get_value('sheet', 'isRun')
         self.data = self.get_sheet(sheet_name)
