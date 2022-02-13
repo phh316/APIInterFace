@@ -31,5 +31,5 @@ if os.path.exists(file_path):
     os.remove(file_path)
 else:
     with open('../report/report.html', 'wb') as f:
-        runner = HTMLTestRunner(f, verbosity=2)
+        runner = HTMLTestRunner(f, title='自动化测试报告', verbosity=2)
         runner.run(suite)

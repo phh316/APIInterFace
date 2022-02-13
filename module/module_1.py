@@ -38,7 +38,7 @@ class TestCase(unittest.TestCase):
             res = RunTest().runner(i)
             if except_result in res:
                 self.excel.wirte_value(i, "pass")
-                self.log.info("断言匹配正确，案例执行pass")
+                self.log.info(f"断言匹配条件为 :{except_result} 匹配结果为 : True，案例执行pass")
             else:
-                self.log.error("断言匹配错误，案例执行failed")
+                self.log.error(f"断言匹配条件为 :{except_result} 匹配结果为 : True，案例执行failed")
                 self.excel.wirte_value(i, res)

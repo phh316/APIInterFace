@@ -34,9 +34,6 @@ class DependData:
         :param row:
         :return:
         """
-        # res = []
-        # res.append(self.excel.get_value(row, self.depend_para))
-        # # res.append(self.excel.get_value(row, self.depend_data))
         data = self.excel.get_value(row, self.depend_para)
         return data if data is not None else None
 
@@ -46,7 +43,9 @@ class DependData:
         :param row:
         :return:
         """
-        return self.excel.get_value(row, self.depend_data)
+        data = str(self.excel.get_value(row, self.depend_data))
+        data = data.split(',')
+        return data
 
 
     def run_depend_id(self):
@@ -73,8 +72,12 @@ class DependData:
         :param row:
         :return:
         """
-        depend_data = self.get_depend_data(row)
+        result = []
+        depend_data = str(self.get_depend_data(row))
         response_data = self.run_depend_id()
-        return jsonpath(response_data,depend_data)[0]
+        data_list = depend_data.split(',')
+        for item in data_list:
+            result.append(jsonpath(response_data,item)[0])
+        return result
 
 

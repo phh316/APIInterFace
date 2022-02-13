@@ -31,6 +31,7 @@ class RunTest():
             name = self.data.get_name(i)
             url = self.data.get_url(i)
             data = JsonData().get_key(self.data.get_data(i))
+            data = json.loads(json.dumps(data))
             method = self.data.get_method(i)
             header = self.data.get_header(i)
             depend_data = self.data.is_depend(i)
@@ -38,13 +39,10 @@ class RunTest():
                 self.log.info("[name] : {} [url] :{} [is_run] :{} [case] :{} [method] {} [header] {}"
                               .format(name, url, is_run, data, method, header))
                 self.depend_data_id = DependData(depend_data)
-                depend = self.depend_data_id.get_data_for_key(i)
-                self.log.info("匹配到的[value] :{}".format(depend))
-                depend_data_list = self.depend_data_id.get_depend_id_data(i)
-                items = JsonData().get_key(data)
-                data = json.loads(json.dumps(items))
-                json_expr = parse(depend_data_list)
-                json_expr.find(data)
-                json_expr.update(data, depend)
+                for v1,v2 in zip(self.depend_data_id.get_data_for_key(i),self.depend_data_id.get_depend_id_data(i)):
+                    json_expr = parse(v2)
+                    json_expr.find(data)
+                    self.log.info(f"匹配规则为 :{json_expr} 匹配到的value为 :{v1}")
+                    json_expr.update(data, v1)
             res = self.run.run_main(url, method, data, header)
             return res
