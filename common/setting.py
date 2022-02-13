@@ -17,8 +17,7 @@ LIB_DIR_PATH = os.path.join(BASE_DIR,'lib')
 REPORT_DIR_PATH = os.path.join(BASE_DIR,'report')
 CASE_DIR_PATH = os.path.join(BASE_DIR,'case')
 MOUDLE_DIR_PATH = os.path.join(BASE_DIR,'module')
-
-
+REPORT_FILE_PATH = r'\\report'
 
 '''报文头设置'''
 HEADER = {"key": "Content-Type", "value": "application/json", "description": ""}
@@ -29,4 +28,5 @@ SUIT_MODULE_1 = ['module_1.py']
 
 '''测试主模块'''
 SUIT_PROJRCT: List[str] = SUIT_MODULE_1
+
 

@@ -10,8 +10,10 @@ rootPath = os.path.split(curPath)[0]
 sys.path.append(rootPath)
 
 import unittest
-from common.setting import MOUDLE_DIR_PATH, SUIT_PROJRCT
+from common.setting import MOUDLE_DIR_PATH, SUIT_PROJRCT,REPORT_DIR_PATH,REPORT_FILE_PATH
 from common.HTMLTestRunner import HTMLTestRunner
+
+file_path = REPORT_DIR_PATH+REPORT_FILE_PATH
 
 #创建测试套件实例
 suite = unittest.TestSuite()
@@ -24,6 +26,10 @@ for test in SUIT_PROJRCT:
     test_suit = loader.discover(start_dir = MOUDLE_DIR_PATH,pattern = test)
     suite.addTest(test_suit)
 
-with open('../report.html', 'wb') as f:
-    runner = HTMLTestRunner(f, verbosity=2)
-    runner.run(suite)
+
+if os.path.exists(file_path):
+    os.remove(file_path)
+else:
+    with open('../report/report.html', 'wb') as f:
+        runner = HTMLTestRunner(f, verbosity=2)
+        runner.run(suite)
