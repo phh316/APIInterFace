@@ -191,7 +191,7 @@ class Template_mixin(object):
         3: u'跳过',
     }
 
-    DEFAULT_TITLE = 'Unit Test Report'
+    DEFAULT_TITLE = '自动化测试报告'
     DEFAULT_DESCRIPTION = ''
 
     # ------------------------------------------------------------------------
@@ -331,7 +331,7 @@ function html_escape(s) {
 function drawCircle(circle,pass, fail, error){ 
     var color = ["#6c6","#c60","#c00"];  
     var data = [pass,fail,error]; 
-    var text_arr = ["Pass", "Fail", "Error"];
+    var text_arr = ["通过", "失败", "错误"];
 
     var canvas = document.getElementById(circle);  
     var ctx = canvas.getContext("2d");  
