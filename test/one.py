@@ -58,7 +58,6 @@
 # print(re.findall('c#.{1}',d,re.I|re.S))
 
 
-
 # d = 'Pythonc#JavaPc#HPc#'
 # r = re.sub('c#',convert,d)
 # print(r)
@@ -78,33 +77,28 @@
 # print(r1)
 
 
-
-
-
-
-
 # class DataExcel1:
 
-    # def test_001(self):
-        # wb  = xlrd.open_workbook(os.path.join(DATA_DIR, 'LoginC噩噩女ase.xlsx'))
-        # sheets = wb.get_sheet('测试案例')
-        # new_wb = copy(wb)
-        # new_wb
-        # actual_cell = write_ws.cell(2, 10, 'aaaaaaaaaaaaa')
-        # write_wb.save('测试案例')
-        # print()
+# def test_001(self):
+# wb  = xlrd.open_workbook(os.path.join(DATA_DIR, 'LoginC噩噩女ase.xlsx'))
+# sheets = wb.get_sheet('测试案例')
+# new_wb = copy(wb)
+# new_wb
+# actual_cell = write_ws.cell(2, 10, 'aaaaaaaaaaaaa')
+# write_wb.save('测试案例')
+# print()
 
-    # def test_002(self):
-    #     file_name = os.path.join(DATA_DIR, 'CaseEntity.xlsx')
-    #     try:
-    #         case = openpyxl.open(file_name)
-    #         sheet_active = case[Config().get_value('sheet', 'isrun')]
-    #         sheet_active.cell(5, 12, '66666666666')
-    #         case.save(file_name)
-    #     except FileNotFoundError:
-    #         Log.get_log().info('文件不存在')
-    #     except PermissionError:
-    #         Log.get_log().info('文件已经打开，不能写入')
+# def test_002(self):
+#     file_name = os.path.join(DATA_DIR, 'CaseEntity.xlsx')
+#     try:
+#         case = openpyxl.open(file_name)
+#         sheet_active = case[Config().get_value('sheet', 'isrun')]
+#         sheet_active.cell(5, 12, '66666666666')
+#         case.save(file_name)
+#     except FileNotFoundError:
+#         Log.get_log().info('文件不存在')
+#     except PermissionError:
+#         Log.get_log().info('文件已经打开，不能写入')
 
 
 # print(Student._Student__name)
@@ -228,8 +222,6 @@
 # print(json.dumps(case, indent=2))
 
 
-
-
 # print(jsonpath(a,"$.case.person[*].name"))
 
 # from common.get_json import *
@@ -243,41 +235,84 @@
 
 # for i in range(1, 6 + 1):
 #     print(i)
-from common.get_config import Config
-from common.get_data import GetData
-from common.log import Log
-from common.get_excel import ExcelData
-from functools import wraps
-
-
-class A:
-    def _init(func):
-        @wraps(func)
-        def inner_func(self):
-            self.data = GetData(Config().get_value('sheet', 'isRun'))
-            self.count = self.data.get_lines()
-            self.log = Log.get_log()
-            self.excel = ExcelData()
-            func(self)
-        return inner_func
-
-    @_init
-    def test_module1(self):
-        ''''''
-        print(self.count)
-
-
-A().test_module1()
+# from common.get_config import Config
+# from common.get_data import GetData
+# from common.log import Log
+# from common.get_excel import ExcelData
+# from functools import wraps
+#
+#
+# class A:
+#     def _init(func):
+#         @wraps(func)
+#         def inner_func(self):
+#             self.data = GetData(Config().get_value('sheet', 'isRun'))
+#             self.count = self.data.get_lines()
+#             self.log = Log.get_log()
+#             self.excel = ExcelData()
+#             func(self)
+#         return inner_func
+#
+#     @_init
+#     def test_module1(self):
+#         ''''''
+#         print(self.count)
+#
+#
+# A().test_module1()
 # print(a.count)
 
+# from os
+# def exites:
+#     os.path.exists(“goal”)
+
+# from common.setting import REPORT_DIR_PATH
+# import os
+# import shutil
+#
+# def exists():
+#     file_path = REPORT_DIR_PATH+r'\\report.html'
+#     if os.path.exists(file_path):
+#         os.remove(file_path)
+# exists()
+# import unittest
+# from module.base import TestObject
+#
+# class TestCaseM000(TestObject,unittest.TestCase):
+#     def __init__(self,i):
+#         self.name = 'iiiiiiiiiii'
+#         # pass
+#         print(i)
+#
+# class TestCaseM001(TestCaseM000):
+#     def __init__(self,i):
+#        print(i)
+#        TestCaseM000.__init__(self,i)
+#
+#     def a(self):
+#         print(self.name)
+#
+#
+# a = TestCaseM001('4444')
+# print(a.a())
+from functools import wraps
+import unittest
 
 
+class A(unittest.TestCase):
 
+    def _init(func):
+        @wraps(func)
+        def inner_func(self, args):
+            print(f"======================{args}")
+            func(self, args)
 
+        return inner_func
 
+    @_init(8)
+    def test_a(self, i: int = 1):
+       print("----------------------")
 
-
-
-
-
+if __name__ == '__main__':
+    unittest.main()
 

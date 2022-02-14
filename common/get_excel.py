@@ -16,7 +16,7 @@ class ExcelData:
         """
         self.file_name = os.path.join(DATA_DIR_PATH, "CaseEntity.xlsx")
         self.is_default = Config().get_value('sheet', 'default')
-        self.is_run = Config().get_value('sheet', 'run_module')
+        self.is_run = Config().get_value('sheet', 'run_module1')
         self.data = self.get_sheet(sheet_name)
         self.log = Log.get_log()
 
