@@ -9,9 +9,9 @@ from module import out_func
 from run.run_test import RunTest
 
 
-class TestCaseM1(unittest.TestCase):
+class TestCaseM2(unittest.TestCase):
 
-    @out_func(i = 0)
+    @out_func(i = 1)
     def test_module1(self):
         for i in range(1, self.count):
             except_result = self.data.get_except_result(i)

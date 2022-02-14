@@ -24,7 +24,6 @@ class Config(ConfigParser):
             return super().get(nodename,key)
         else:
             print("传入参数[nodename]为 :  {},参数[key]为 :  {}".format(nodename, key))
-            #self.Hlog.info("传入参数[nodename]为 :  {},参数[key]为 :  {}".format(nodename, key))
 
     def save_value(self,nodename,key,value):
         '''
@@ -39,7 +38,6 @@ class Config(ConfigParser):
             super().write(fp = open(self.config_name,'w'))
         else:
             print("传入参数[nodename]为 :  {},参数[key]为 :  {},参数[value]为 :  {}".format(nodename,key,value))
-            #self.log.info("传入参数[nodename]为 :  {},参数[key]为 :  {},参数[value]为 :  {}".format(nodename,key,value))
 
     def get_all_sections(self):
         """

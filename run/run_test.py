@@ -22,7 +22,7 @@ class RunTest():
     def __init__(self):
         self.log = Log.get_log()
         self.run = ApiRunner()
-        self.data = GetData(Config().get_value('sheet', 'isRun'))
+        self.data = GetData(Config().get_value('sheet', 'run_module1'))
         self.excel = ExcelData()
 
     def runner(self, i):

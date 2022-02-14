@@ -15,10 +15,10 @@ from common.HTMLTestRunner import HTMLTestRunner
 
 file_path = REPORT_DIR_PATH+REPORT_FILE_PATH
 
-#创建测试套件实例
+# #创建测试套件实例
 suite = unittest.TestSuite()
 
-#测试加载器的初始化
+# #测试加载器的初始化
 loader = unittest.defaultTestLoader
 
 #加载测试对象

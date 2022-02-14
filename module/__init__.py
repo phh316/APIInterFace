@@ -1,5 +1,18 @@
-#!/usr/bin/env python
-# -- coding: utf-8 --
-# @Date : 2022/2/12
-# @Author : Ph
-# @File : __init__.py.py
+from common.log import Log
+from common.get_excel import ExcelData
+from common.get_excel import Config
+from common.get_data import GetData
+
+
+def out_func(**kwargs):
+    def _init(func):
+        def inner_func(self):
+            self.data = GetData(Config().get_value('sheet', 'run_module').split(',')[int(kwargs.get('i'))])
+            self.count = self.data.get_lines()
+            self.log = Log.get_log()
+            self.excel = ExcelData()
+            func(self)
+
+        return inner_func
+
+    return _init

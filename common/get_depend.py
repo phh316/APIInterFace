@@ -15,7 +15,7 @@ class DependData:
         self.id = id
         self.log = Log.get_log()
         self.excel = ExcelData()
-        self.data = GetData(Config().get_value('sheet', 'isRun'))
+        self.data = GetData(Config().get_value('sheet', 'run_module1'))
         self.depend_id = int(Config().get_value('excel', 'dependentId'))
         self.depend_data = int(Config().get_value('excel','dependentData'))
         self.depend_para = int(Config().get_value('excel','dependentPara'))
