@@ -28,30 +28,34 @@
 # def test():
 #     pass
 # # test()
-import unittest
-class A(unittest.TestCase):
+# import unittest
+# class A(unittest.TestCase):
+#
+#     def out_func(**kwargs):
+#         def _init(func):
+#             def inner_func(self):
+#                 print(kwargs.get('i'))
+#                 func(self)
+#             return inner_func
+#         return _init
+#
+#     @out_func(i = '4444')
+#     def test_a(self):
+#         pass
+#
+# class A1():
+#
+#     def out_func(**kwargs):
+#         def _init(func):
+#             def inner_func(self):
+#                 print(kwargs.get('i'))
+#                 func(self)
+#             return inner_func
+#         return _init
+#
+# if __name__ == '__main__':
+#     unittest.main()
+# from common.get_config import Config
+# a = Config().get_value('sheet', 'run_module').split(',')[0]
+# print(a)
 
-    def out_func(**kwargs):
-        def _init(func):
-            def inner_func(self):
-                print(kwargs.get('i'))
-                func(self)
-            return inner_func
-        return _init
-
-    @out_func(i = '4444')
-    def test_a(self):
-        pass
-
-class A1():
-
-    def out_func(**kwargs):
-        def _init(func):
-            def inner_func(self):
-                print(kwargs.get('i'))
-                func(self)
-            return inner_func
-        return _init
-
-if __name__ == '__main__':
-    unittest.main()

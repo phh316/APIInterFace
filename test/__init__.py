@@ -3,10 +3,10 @@
 # @Date : 2022/2/14
 # @Author : Ph
 # @File : __init__.py
-from common.get_excel import Config
-from common.get_data import GetData
+from common.get_data import Config
+from common.get_excel import GetData
 from common.log import Log
-from common.get_excel import ExcelData
+from common.get_data import ExcelData
 
 log = Log.get_log()
 excel = ExcelData()

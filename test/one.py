@@ -295,24 +295,44 @@
 #
 # a = TestCaseM001('4444')
 # print(a.a())
-from functools import wraps
-import unittest
+# from functools import wraps
+# import unittest
+#
+#
+# class A(unittest.TestCase):
+#
+#     def _init(func):
+#         @wraps(func)
+#         def inner_func(self, args):
+#             print(f"======================{args}")
+#             func(self, args)
+#
+#         return inner_func
+#
+#     @_init(8)
+#     def test_a(self, i: int = 1):
+#        print("----------------------")
+#
+# if __name__ == '__main__':
+#     unittest.main()
 
 
-class A(unittest.TestCase):
 
-    def _init(func):
-        @wraps(func)
-        def inner_func(self, args):
-            print(f"======================{args}")
-            func(self, args)
+def logger(fn):
+    print("111111")
+    def wrapper(*args):
+        print('函数被执行了')
+        print(args)
+        res = fn(*args)
+        print('函数执行完毕')
+        return res
+    print("222222")
+    return wrapper
 
-        return inner_func
 
-    @_init(8)
-    def test_a(self, i: int = 1):
-       print("----------------------")
+@logger   # 等于 add = logger(add)
+def add(x, y):
+    print('44444444444444')
+    return x + y
 
-if __name__ == '__main__':
-    unittest.main()
-
+add(4,5)

@@ -6,6 +6,8 @@
 import os
 from typing import List
 
+
+
 '''设置文件基础路径'''
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COMMON_DIR_PATH = os.path.join(BASE_DIR,'common')
@@ -28,5 +30,6 @@ SUIT_MODULE_1 = ['module_1.py','module_2.py']
 
 '''测试主模块'''
 SUIT_PROJRCT: List[str] = SUIT_MODULE_1
+
 
 

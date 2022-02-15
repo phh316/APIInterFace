@@ -5,9 +5,10 @@ from main.api_runner import ApiRunner
 from jsonpath import jsonpath
 from common.get_config import Config
 from common.log import Log
-from common.get_excel import ExcelData
-from common.get_data import GetData
-from .import depend_para,depend_data,JsonData
+from common.get_data import ExcelData
+from common.get_excel import GetData
+from common.get_json import JsonData
+from .import depend_para,depend_data
 import json
 
 

@@ -39,25 +39,3 @@ class Config(ConfigParser):
         else:
             print("传入参数[nodename]为 :  {},参数[key]为 :  {},参数[value]为 :  {}".format(nodename, key, value))
 
-    def get_all_sections(self):
-        """
-        获取所有配置信息
-        :return:
-        """
-        return super().sections()
-
-    def get_option(self, nodename):
-        """
-        获取所有节点的key
-        :param nodename:
-        :return:
-        """
-        return super().options(nodename)
-
-    def get_items(self, nodename):
-        """
-        获取所有节点的value
-        :param nodename:
-        :return:
-        """
-        return super().items(nodename)

@@ -4,7 +4,6 @@
 # @Author : Ph
 # @File : module_1.py
 import unittest
-
 from module import out_func
 from run.run_case import RunTest
 
