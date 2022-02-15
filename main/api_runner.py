@@ -19,8 +19,6 @@ class ApiRunner():
 
         return wraps_func
 
-
-
     @logs
     def http_post(**kwargs):
         '''
@@ -52,8 +50,6 @@ class ApiRunner():
         else:
             res = requests.get(kwargs.get('url'), kwargs.get('case'))
         return res.json()
-
-
 
     def run_main(self, url, method, data, header):
         """

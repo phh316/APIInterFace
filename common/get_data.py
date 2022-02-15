@@ -3,13 +3,14 @@ from common.get_excel import ExcelData
 from common.get_json import JsonData
 from common.setting import HEADER
 from common.get_config import Config
+# from . import depend_id
 
 
 class GetData:
 
     def __init__(self, sheet_name=None):
         self.excel = ExcelData(sheet_name)
-        self.depend_id = int(Config().get_value('excel','dependentId'))
+        self.depend_id = int(Config().get_value('excel', 'dependentId'))
 
     def get_lines(self):
         """
@@ -24,7 +25,7 @@ class GetData:
         :param row:
         :return:
         """
-        col = int(Config().get_value('excel','isRun'))
+        col = int(Config().get_value('excel', 'isRun'))
         is_run = self.excel.get_value(row, col)
         if is_run == 'yes':
             return True

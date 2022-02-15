@@ -6,16 +6,16 @@
 import unittest
 
 from module import out_func
-from run.run_test import RunTest
+from run.run_case import RunTest
 
 
 class TestCaseM1(unittest.TestCase):
 
-    @out_func(i = 0)
+    @out_func(0)
     def test_module1(self):
         for i in range(1, self.count):
             except_result = self.data.get_except_result(i)
-            res = RunTest().runner(i)
+            res = RunTest(data =self.data,log = self.log).runner(i)
             if except_result in res:
                 self.excel.wirte_value(i, "pass")
                 self.log.info(f"断言匹配条件为 :{except_result} 匹配结果为 : True，案例执行pass")

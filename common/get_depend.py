@@ -1,24 +1,24 @@
 # -*- coding: utf-8 -*-
+
+
+from main.api_runner import ApiRunner
+from jsonpath import jsonpath
 from common.get_config import Config
-from common.get_json import JsonData
-from main.apimain import ApiRunner
+from common.log import Log
 from common.get_excel import ExcelData
 from common.get_data import GetData
-from jsonpath import jsonpath
-from common.log import Log
+from .import depend_para,depend_data,JsonData
 import json
 
 
 class DependData:
 
-    def __init__(self,id):
+    def __init__(self,id,i: int = 0):
         self.id = id
         self.log = Log.get_log()
         self.excel = ExcelData()
-        self.data = GetData(Config().get_value('sheet', 'run_module1'))
-        self.depend_id = int(Config().get_value('excel', 'dependentId'))
-        self.depend_data = int(Config().get_value('excel','dependentData'))
-        self.depend_para = int(Config().get_value('excel','dependentPara'))
+        self.data = GetData(Config().get_value('sheet', 'run_module').split(',')[i])
+
 
     def get_case_id_data(self, id):
         """
@@ -34,7 +34,7 @@ class DependData:
         :param row:
         :return:
         """
-        data = self.excel.get_value(row, self.depend_para)
+        data = self.excel.get_value(row,depend_para)
         return data if data is not None else None
 
     def get_depend_id_data(self,row):
@@ -43,7 +43,7 @@ class DependData:
         :param row:
         :return:
         """
-        data = str(self.excel.get_value(row, self.depend_data))
+        data = str(self.excel.get_value(row,depend_data))
         data = data.split(',')
         return data
 
@@ -57,7 +57,6 @@ class DependData:
         row_num = self.excel.get_row_num_depend_id(self.id)
         request_name = self.data.get_name(row_num)
         request_url = self.data.get_url(row_num)
-        a = self.data.get_data(row_num)
         request_data = JsonData().get_key(self.data.get_data(row_num))
         request_method = self.data.get_method(row_num)
         request_header = self.data.get_header(row_num)

@@ -1,22 +1,21 @@
 # -*- coding: utf-8 -*-
 import openpyxl
 import xlrd
-from common.setting import DATA_DIR_PATH
 from common.log import Log
 from common.get_config import Config
+from common.setting import DATA_DIR_PATH
 import os
-
 
 class ExcelData:
 
-    def __init__(self, sheet_name=None):
+    def __init__(self, sheet_name=None,i:int = 0):
         """
         加载excel文件
         :return:
         """
         self.file_name = os.path.join(DATA_DIR_PATH, "CaseEntity.xlsx")
         self.is_default = Config().get_value('sheet', 'default')
-        self.is_run = Config().get_value('sheet', 'run_module1')
+        self.is_run = Config().get_value('sheet', 'run_module').split(',')[i]
         self.data = self.get_sheet(sheet_name)
         self.log = Log.get_log()
 
@@ -32,7 +31,7 @@ class ExcelData:
         加载sheet内容
         :return:
         """
-        data = xlrd.open_workbook(self.file_name)
+        data = xlrd.open_workbook( self.file_name )
         if sheet_name is None:
             return data.sheets()[int(self.is_default)]
         else:
