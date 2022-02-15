@@ -14,4 +14,4 @@ depend_data = int(Config().get_value('excel', 'dependentData'))
 depend_para = int(Config().get_value('excel', 'dependentPara'))
 file_name = os.path.join(DATA_DIR_PATH, "CaseEntity.xlsx")
 is_default = Config().get_value('sheet', 'default')
-
+sheet_names = Config().get_value('sheet', 'run_module').split(',')

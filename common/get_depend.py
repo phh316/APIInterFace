@@ -8,7 +8,7 @@ from common.log import Log
 from common.get_data import ExcelData
 from common.get_excel import GetData
 from common.get_json import JsonData
-from .import depend_para,depend_data
+from .import depend_para,depend_data,sheet_names
 import json
 
 
@@ -18,7 +18,7 @@ class DependData:
         self.id = id
         self.log = Log.get_log()
         self.excel = ExcelData()
-        self.data = GetData(Config().get_value('sheet', 'run_module').split(',')[i])
+        self.data = GetData(sheet_names[i])
 
 
     def get_case_id_data(self, id):

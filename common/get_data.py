@@ -3,18 +3,18 @@ import openpyxl
 import xlrd
 from common.log import Log
 from common.get_config import Config
-from .import file_name,is_default
+from . import file_name, is_default, sheet_names
 
 
 class ExcelData:
 
-    def __init__(self,index:int =0,sheet_name=None):
+    def __init__(self, index: int = 0, sheet_name=None):
         """
         加载excel文件
         :return:
         """
 
-        self.data = self.get_sheet(run_sheet:=Config().get_value('sheet', 'run_module').split(',')[index])
+        self.data = self.get_sheet(run_sheet := sheet_names[index])
         self.is_run = run_sheet
         self.log = Log.get_log()
 
