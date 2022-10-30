@@ -25,7 +25,7 @@ for test in SUIT_PROJRCT:
     test_suit = loader.discover(start_dir = MOUDLE_DIR_PATH,pattern = test)
     suite.addTest(test_suit)
 
-
+#测试20221030
 if os.path.exists(file_path):
     os.remove(file_path)
 with open('../report/report.html', 'wb') as f:
